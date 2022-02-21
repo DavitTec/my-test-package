@@ -8,7 +8,13 @@ Before installing, download and install Node.js from [here](https://nodejs.org/e
 You’ll need Node.js version 10.13 or later
 
 
-Create a package.json first with the npm init command.
+Create a package.json first with the _npm init_ command.
+
+```bash
+
+npm init
+
+```
 
 Installation is done using the npm install command:
 
