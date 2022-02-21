@@ -18,6 +18,9 @@ npm init
 
 Installation is done using the npm install command:
 
+https://nextjs.org/learn/basics/create-nextjs-app/setup
+
+
 ```bash
 
 npm install >>>>WHAT?<<<<<
