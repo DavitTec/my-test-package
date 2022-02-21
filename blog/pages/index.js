@@ -4,13 +4,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Davit - create Next App</title>
+        <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://github.com/DavitTec/">DavitTec!</a>
+          Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className="description">
@@ -29,7 +29,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://github.com/DavitTec/next.js/tree/master/examples"
+            href="https://github.com/vercel/next.js/tree/master/examples"
             className="card"
           >
             <h3>Examples &rarr;</h3>
@@ -37,7 +37,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://github.com/DavitTec/"
+            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className="card"
           >
             <h3>Deploy &rarr;</h3>
@@ -50,12 +50,12 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://github.com/DavitTec/"
+          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/img/DAVIT-1.png" alt="Davit" className="logo" />
+          <img src="/vercel.svg" alt="Vercel" className="logo" />
         </a>
       </footer>
 
@@ -81,7 +81,7 @@ export default function Home() {
         footer {
           width: 100%;
           height: 100px;
-          border-top: 1px solid #dc1c5c;
+          border-top: 1px solid #eaeaea;
           display: flex;
           justify-content: center;
           align-items: center;
@@ -103,7 +103,7 @@ export default function Home() {
         }
 
         .title a {
-          color: #dc1c5c;
+          color: #0070f3;
           text-decoration: none;
         }
 
@@ -163,8 +163,8 @@ export default function Home() {
         .card:hover,
         .card:focus,
         .card:active {
-          color: #750e35;
-          border-color: #750e35;
+          color: #0070f3;
+          border-color: #0070f3;
         }
 
         .card h3 {
