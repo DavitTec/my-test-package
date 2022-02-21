@@ -37,7 +37,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://davit.ie/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://github.com/DavitTec/"
             className="card"
           >
             <h3>Deploy &rarr;</h3>
@@ -50,7 +50,7 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://github.com/DavitTec/?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://github.com/DavitTec/"
           target="_blank"
           rel="noopener noreferrer"
         >
