@@ -8,7 +8,7 @@ This is a Node.js project available through the npm registry.
 Before installing, download and install Node.js from [here](https://nodejs.org/en/).
 You’ll need Node.js version 10.13 or later
 
-Create a package.json first with the _npm init_ command. Optionally: _npm init -y_ generates a simple _package.json_ without any questions. [\[1\]][mylink]
+Create a package.json first with the _npm init_ command. Optionally: _npm init -y_ generates a simple _package.json_ without any questions. [[1]][mylink1]
 
 ```bash
 npm init
@@ -31,5 +31,5 @@ This is an initial setup using the NODE.js, NEXT.js and webdev modules.
 
 ## References
 
-1.  [mylink]&#x3A;<https://docs.npmjs.com/cli/v7/commands/npm-init> "npm-init commands"
+1.  [mylink1]:https://docs.npmjs.com/cli/v7/commands/npm-init "npm-init commands"
      npm-init commands
