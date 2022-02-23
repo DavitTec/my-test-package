@@ -40,6 +40,8 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+/.pnp
+.pnp.js
 
 # TypeScript v1 declaration files
 typings/
@@ -76,7 +78,14 @@ typings/
 .cache
 
 # Next.js build output
-.next
+/.next/
+/out/
+
+# vercel
+.vercel
+
+# production
+/build
 
 # Nuxt.js build / generate output
 .nuxt
@@ -106,3 +115,7 @@ dist
 #build
 package-lock.json
 drafts
+
+# misc
+.DS_Store
+*.pem
