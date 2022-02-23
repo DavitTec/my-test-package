@@ -79,7 +79,7 @@ typings/
 
 # Next.js build output
 /.next/
-/out/
+
 
 # vercel
 .vercel
