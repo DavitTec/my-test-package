@@ -1,6 +1,6 @@
 # my-test-package
 
-my-test-package
+my-test-package v0.1.2
 
 ## Installation
 
